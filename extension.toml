@@ -1,0 +1,7 @@
+id = "gruvbox-material-icon-theme"
+name = "Gruvbox Material Icon Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["River M"]
+description = "Gruvbox Material icons for Zed."
+repository = "https://github.com/rivermatsumoto/gruvbox-material-icon-theme"
