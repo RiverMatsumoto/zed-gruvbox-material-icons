@@ -4,16 +4,6 @@ Gruvbox Material file and folder icons for [Zed](https://zed.dev/).
 
 This extension is a Zed port of Jonathan Harty's [Gruvbox Material Icon Theme for VS Code](https://github.com/Jonathan-Harty/vscode-material-icon-theme). That project adapts the original [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme) with colors inspired by [gruvbox-material](https://github.com/sainnhe/gruvbox-material).
 
-## Extension Contents
-
-Zed loads this icon theme from:
-
-- [extension.toml](./extension.toml)
-- [icon_themes/gruvbox-material-icon-theme.json](./icon_themes/gruvbox-material-icon-theme.json)
-- [icons/](./icons)
-
-The TypeScript files in [src/](./src) are development tooling for regenerating the icon theme JSON and copying icon assets. They are not runtime extension code.
-
 ## Credits
 
 - [Jonathan Harty](https://github.com/Jonathan-Harty) for the Gruvbox Material VS Code icon theme this port is based on.
