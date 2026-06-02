@@ -77,7 +77,7 @@ export const getTheme = (manifest: Manifest): IconTheme => {
   });
 
   return {
-    name: "Material Icon Theme",
+    name: "Gruvbox Material Icon Theme",
     appearance: "dark",
     file_icons: fileIconDefinitions,
     directory_icons: {
